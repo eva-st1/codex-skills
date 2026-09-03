@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Heuristics"
+  short_description: "Review interfaces with evidence-based heuristics"
+  default_prompt: "Use $design-heuristics to review this design and prioritize actionable improvements."
