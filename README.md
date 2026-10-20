@@ -19,12 +19,24 @@ The review covers:
 
 Find it in [`skills/design-heuristics`](skills/design-heuristics).
 
+### SEO & AI Search
+
+A workflow for auditing and improving website SEO and visibility in AI search answers (AEO/GEO). It covers query and content research, technical health, local discovery, authority, and measured AI citations, with recommendations grounded in observed evidence.
+
+Find it in [`skills/seo-ai-search`](skills/seo-ai-search).
+
 ## Install with Codex
 
 Ask Codex:
 
 ```text
 Install the skill from https://github.com/eva-st1/codex-skills/tree/main/skills/design-heuristics
+```
+
+For SEO & AI Search:
+
+```text
+Install the skill from https://github.com/eva-st1/codex-skills/tree/main/skills/seo-ai-search
 ```
 
 Or clone the repository and copy the skill into your personal skills directory:
@@ -38,6 +50,12 @@ Then invoke it with:
 
 ```text
 $design-heuristics review this interface and prioritize actionable improvements
+```
+
+Or for SEO & AI Search:
+
+```text
+$seo-ai-search audit my website and prioritize SEO and AI search improvements
 ```
 
 ## Structure
