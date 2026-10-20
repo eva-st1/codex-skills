@@ -1,0 +1,4 @@
+interface:
+  display_name: "Website Copywriting"
+  short_description: "Clear, credible website copy in the right voice"
+  default_prompt: "Use $website-copywriting to improve my website copy for its audience, preserving verified facts and brand voice."

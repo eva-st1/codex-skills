@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create CV"
+  short_description: "Truthful, role-tailored CVs with inspectable proof"
+  default_prompt: "Use $create-cv to tailor my CV to this vacancy using my confirmed experience and supplied materials."
